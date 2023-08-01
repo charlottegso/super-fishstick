@@ -1,1 +1,1 @@
-# super-fishstickexample repo
+# super-fishstick
